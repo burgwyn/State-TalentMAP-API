@@ -1,8 +1,8 @@
 # United States Department of State TalentMAP
 
-[![Build Status](https://circleci.com/gh/MetaPhase-Consulting/State-TalentMAP-API.svg?&style=shield)](https://circleci.com/gh/MetaPhase-Consulting/State-TalentMAP-API/)
-[![Test Coverage](https://codeclimate.com/github/MetaPhase-Consulting/State-TalentMAP-API/badges/coverage.svg)](https://codeclimate.com/github/MetaPhase-Consulting/State-TalentMAP-API/coverage)
-[![Code Climate](https://codeclimate.com/github/MetaPhase-Consulting/State-TalentMAP-API/badges/gpa.svg)](https://codeclimate.com/github/MetaPhase-Consulting/State-TalentMAP-API)
+[![Build Status](https://circleci.com/gh/USStateDept/State-TalentMAP-API.svg?&style=shield)](https://circleci.com/gh/USStateDept/State-TalentMAP-API/)
+[![Test Coverage](https://codeclimate.com/github/USStateDept/State-TalentMAP-API/badges/coverage.svg)](https://codeclimate.com/github/USStateDept/State-TalentMAP-API/coverage)
+[![Code Climate](https://codeclimate.com/github/USStateDept/State-TalentMAP-API/badges/gpa.svg)](https://codeclimate.com/github/USStateDept/State-TalentMAP-API)
 
 A comprehensive research, bidding, and matching system to match Foreign Service employees with the right skills to available posts and positions.
 
